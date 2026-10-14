@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/huawei/vision_high_zone/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

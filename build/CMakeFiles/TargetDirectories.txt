@@ -1,0 +1,3 @@
+/home/huawei/vision_high_zone/build/CMakeFiles/high_zone_detector.dir
+/home/huawei/vision_high_zone/build/CMakeFiles/edit_cache.dir
+/home/huawei/vision_high_zone/build/CMakeFiles/rebuild_cache.dir
